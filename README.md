@@ -1,6 +1,6 @@
-# Social Buttons for Twitter Bootstrap
+# Social Buttons for Twitter Bootstrap (v1.0.0)
 
-**Clean (unofficial) social media buttons for Bootstrap using Font Awesome.**
+**Clean (unofficial) social media buttons for Bootstrap 2 and 3 using Font Awesome.**
 
 [See a live example](http://noizwaves.github.io/bootstrap-social-buttons/)
 
@@ -16,15 +16,18 @@ Themes provided include:
 - LinkedIn
 - Google Plus
 - Instragram
+- and many more
 
 ## Requirements
 
-- Twitter Bootstrap 2.3.1 (although older versions should be fine too).
-- Font Awesome 3.0.2 (again, older versions should be fine).
+- Twitter Bootstrap 2.3.2 (although older versions should be fine too) or Twitter Bootstrap 3.
+- Font Awesome 4.0.3 (again, older versions should be fine).
 
 ## Installation
 
 Once you have cloned the repo, if you are using CSS then:
+
+Note: when using Bootstrap 3, use 'social-buttons-3.{ext}' instead of 'social-buttons.{ext}'!
 
 1. Include Bootstrap and Font Awesome in your app (see [this guide](http://www.bootstrapcdn.com/#tab_fontawesome))
 2. Include social-buttons.css in your app
